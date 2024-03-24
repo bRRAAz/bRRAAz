@@ -1,4 +1,4 @@
-### Olá meu nome é João Vitor e sou estudante de ADS
+### Olá meu nome é João Vitor e sou Analista de Sistemas Junior
 
 <div align="center">
   <a href="https://github.com/bRRAAz">
